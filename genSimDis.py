@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul 23 20:02:14 2022
 
-@author: Robin
-"""
 
 from genStim3 import genStim3
 
